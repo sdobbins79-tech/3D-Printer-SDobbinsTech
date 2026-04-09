@@ -1,2 +1,14 @@
-# Auto detect text files and perform LF normalization
+# Normalize text files where possible
 * text=auto
+
+# Treat common model and archive formats as binary
+*.stl binary
+*.3mf binary
+*.step binary
+*.stp binary
+*.obj binary
+*.zip binary
+*.bin binary
+*.exe binary
+*.img binary
+*.gz binary
