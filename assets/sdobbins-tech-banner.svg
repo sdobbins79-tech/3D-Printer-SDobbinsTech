@@ -1,0 +1,59 @@
+<svg width="1600" height="520" viewBox="0 0 1600 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="520" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FCFCFC"/>
+      <stop offset="1" stop-color="#EEF1F4"/>
+    </linearGradient>
+    <linearGradient id="orange" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FF8C2B"/>
+      <stop offset="1" stop-color="#F06D12"/>
+    </linearGradient>
+    <linearGradient id="steel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#9CA3AA"/>
+      <stop offset="1" stop-color="#656D76"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="12" stdDeviation="18" flood-color="#9098A1" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="520" rx="32" fill="url(#bg)"/>
+  <circle cx="212" cy="260" r="150" fill="#FFFFFF" opacity="0.9"/>
+  <circle cx="1388" cy="92" r="44" fill="#FFFFFF" opacity="0.55"/>
+  <circle cx="1450" cy="422" r="70" fill="#FFFFFF" opacity="0.5"/>
+
+  <g filter="url(#shadow)">
+    <path d="M272 105
+             A110 110 0 0 1 382 215
+             V255
+             A110 110 0 0 1 272 365
+             A110 110 0 0 1 162 255"
+          stroke="url(#orange)" stroke-width="26" stroke-linecap="round" fill="none"/>
+    <path d="M278 142
+             C230 142 202 166 202 205
+             C202 245 235 257 275 269
+             C315 281 348 294 348 334
+             C348 373 320 398 272 398
+             C224 398 192 374 188 328"
+          stroke="url(#orange)" stroke-width="26" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+
+    <g transform="translate(342 104)">
+      <circle cx="0" cy="0" r="34" fill="url(#steel)"/>
+      <circle cx="0" cy="0" r="70" stroke="url(#steel)" stroke-width="22" fill="none"/>
+      <g fill="url(#steel)">
+        <rect x="-11" y="-118" width="22" height="38" rx="6"/>
+        <rect x="-11" y="80" width="22" height="38" rx="6"/>
+        <rect x="80" y="-11" width="38" height="22" rx="6"/>
+        <rect x="-118" y="-11" width="38" height="22" rx="6"/>
+        <rect x="59" y="-87" width="22" height="38" rx="6" transform="rotate(45 70 -68)"/>
+        <rect x="-80" y="50" width="22" height="38" rx="6" transform="rotate(45 -69 69)"/>
+        <rect x="50" y="58" width="22" height="38" rx="6" transform="rotate(-45 61 77)"/>
+        <rect x="-87" y="-80" width="22" height="38" rx="6" transform="rotate(-45 -76 -61)"/>
+      </g>
+    </g>
+  </g>
+
+  <text x="500" y="228" fill="#F1771C" font-family="Segoe UI, Arial, sans-serif" font-size="96" font-weight="700" letter-spacing="-2">sdobbins</text>
+  <text x="1068" y="228" fill="#6E7680" font-family="Segoe UI, Arial, sans-serif" font-size="96" font-weight="700" letter-spacing="-2">-tech</text>
+  <text x="505" y="310" fill="#6E7680" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="500" letter-spacing="3">3D PRINTING PROJECTS • MODS • CALIBRATIONS • GUIDES</text>
+</svg>
