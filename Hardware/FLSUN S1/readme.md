@@ -1,6 +1,6 @@
-# FLSUN S1 Conversions
+# FLSUN S1 Hardware
 
-Effector, mainboard, toolhead, and other conversion parts for the FLSUN S1.
+Effector, mainboard, toolhead, and other hardware upgrade parts for the FLSUN S1.
 
 ## Included files
 

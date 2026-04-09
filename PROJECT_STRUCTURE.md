@@ -5,7 +5,7 @@ This repository works best when visitors can quickly find a project, understand 
 ## Suggested top-level categories
 
 ```text
-Conversions/
+Hardware/
 macros/
 Mounts/
 Toolheads/

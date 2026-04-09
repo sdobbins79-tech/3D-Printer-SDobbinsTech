@@ -1,6 +1,6 @@
-# Conversions
+# Hardware
 
-Hardware conversions and upgrade parts for supported printers.
+Hardware upgrades and printed parts for supported printers.
 
 This section is for printer-specific mechanical or hardware changes such as:
 
@@ -11,8 +11,8 @@ This section is for printer-specific mechanical or hardware changes such as:
 
 ## Current projects
 
-### [FLSUN S1](./Conversions/FLSUN%20S1)
-Effector, toolhead, and other conversion parts for the FLSUN S1.
+### [FLSUN S1](./FLSUN%20S1)
+Effector, toolhead, and other hardware upgrade parts for the FLSUN S1.
 
 ## What each conversion folder should include
 

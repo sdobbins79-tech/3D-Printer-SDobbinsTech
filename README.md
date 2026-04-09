@@ -1,23 +1,23 @@
 <p align="center">
-  <img src="./assets/sdobbins-tech-banner-final.png" alt="sdobbins-tech banner" width="100%">
+  <img src="./.github/assets/sdobbins-tech-banner-final.png" alt="sdobbins-tech banner" width="100%">
 </p>
 
 # 3D Printer Projects and Upgrades
 
-A growing collection of 3D printer upgrades, conversions, macros, and useful project files for the community to download.
+A growing collection of 3D printer hardware upgrades, macros, and useful project files for the community to download.
 
-This repository is meant to be easy to browse whether you are looking for a printable part, a hardware conversion, or a ready-to-use macro.
+This repository is meant to be easy to browse whether you are looking for a printable part, a hardware upgrade, or a ready-to-use macro.
 
 ## What you'll find here
 
-- Printer conversions and upgrade parts
+- Hardware mods, mounts, and upgrade parts
 - Printable hardware and mounting solutions
 - Klipper macros and printer helper files
 - Source and reference files when available
 
 ## Featured Areas
 
-- [Conversions](./Conversions): Printer-specific hardware upgrades, toolhead changes, mounts, and printed functional parts.
+- [Hardware](./Hardware): Printer-specific hardware upgrades, toolhead changes, mounts, and printed functional parts.
 - [macros](./macros): Useful Klipper and printer workflow macros for setup and day-to-day printing.
 - [Calibrations](./Calibrations): Step-by-step tuning guides for extrusion, pressure advance, PID, bed mesh, and more.
 
