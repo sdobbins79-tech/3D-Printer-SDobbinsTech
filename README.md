@@ -15,16 +15,11 @@ This repository is meant to be easy to browse whether you are looking for a prin
 - Klipper macros and printer helper files
 - Source and reference files when available
 
-## Current sections
+## Featured Areas
 
-### [Conversions](./Conversions)
-Hardware conversions, mounts, ducts, and other printer-specific upgrade parts.
-
-### [macros](./macros)
-Klipper and printer workflow macros that are ready to review and use.
-
-### [Calibrations](./Calibrations)
-Step-by-step calibration guides for common Klipper tuning tasks.
+- [Conversions](./Conversions): Printer-specific hardware upgrades, toolhead changes, mounts, and printed functional parts.
+- [macros](./macros): Useful Klipper and printer workflow macros for setup and day-to-day printing.
+- [Calibrations](./Calibrations): Step-by-step tuning guides for extrusion, pressure advance, PID, bed mesh, and more.
 
 ## Download tips
 
