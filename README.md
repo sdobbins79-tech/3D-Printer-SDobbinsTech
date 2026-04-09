@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/sdobbins-tech.png" alt="sdobbins-tech logo" width="420">
+</p>
+
 # 3D Printer Projects and Upgrades
 
 A growing collection of 3D printer upgrades, conversions, macros, and useful project files for the community to download.
