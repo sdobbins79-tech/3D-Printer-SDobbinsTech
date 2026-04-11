@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./.github/assets/sdobbins-tech-banner-final.png" alt="sdobbins-tech banner" width="100%">
+  <img src="./.github/assets/sd-techworks-banner.png" alt="SD Techworks banner" width="100%">
 </p>
 
 # 3D Printer Projects and Upgrades
