@@ -14,6 +14,9 @@ This section is for printer-specific mechanical or hardware changes such as:
 ### [FLSUN S1](./FLSUN%20S1)
 Effector, toolhead, and other hardware upgrade parts for the FLSUN S1.
 
+### [PID Chamber Heater Controller](./PID%20Chamber%20Heater%20Controller)
+Standalone PID controller enclosure for a chamber heater setup. The PTC heater and fan assembly is still in progress.
+
 ## What each hardware folder should include
 
 - A short `README.md`
