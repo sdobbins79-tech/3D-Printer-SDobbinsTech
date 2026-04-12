@@ -8,8 +8,6 @@ This section is for useful macro files that support printer setup, maintenance, 
 
 These macros are printer-specific. Do not copy a macro into another printer until you verify the printer model, bed size, homing behavior, purge location, and Klipper configuration.
 
-The current start and end macros are written for the FLSUN S1. The end macro uses delta-style center and circular cooling movement based on the configured toolhead limits. The start macro uses an FLSUN S1 side purge position with negative X movement. Those coordinates can be wrong or unsafe on a different printer.
-
 ## Current files
 
 - `FLSUN S1 Start Purge.cfg`
