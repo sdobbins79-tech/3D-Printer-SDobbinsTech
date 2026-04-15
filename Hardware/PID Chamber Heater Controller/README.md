@@ -30,6 +30,16 @@ The PID kit includes an `SSR-40DA` style solid state relay, commonly marked as `
 
 Treat this as a `500W heater build` unless you are qualified to re-rate the entire electrical system.
 
+## PID-to-SSR Wiring Diagram
+
+![PID to SSR wiring diagram](./images/pid-ssr-wiring.png)
+
+Use this as a simple visual guide for the PID controller, thermocouple, SSR, and PTC heater wiring path. Always compare the diagram to the labels printed on your exact PID controller and SSR before connecting power, because terminal layouts can vary between kits.
+
+The PID controller uses the thermocouple to read temperature, then sends a low-voltage control signal to the SSR. The SSR switches mains AC power to the PTC heater.
+
+Do not power the build until live, neutral, ground, SSR input, SSR output, and thermocouple polarity have all been checked.
+
 ## Build List
 
 See the full [Materials List](./Materials-List.md).
@@ -194,5 +204,4 @@ If the temperature climbs too high, the fan stops, or anything smells hot, shut 
 
 - PTC heater assembly
 - Fan mounting and airflow path
-- Final wiring diagram
 - Final chamber heater testing notes
