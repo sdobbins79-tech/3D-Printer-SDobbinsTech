@@ -82,7 +82,7 @@ Prepare a short PID-to-SSR control wire, approximately `100 mm / 4 in` long. Thi
 
 ![Fan controller](./images/pid-controller-05.jpg)
 
-Prepare the fan controller and attach double-sided tape to the back of the controller housing. This lets the fan speed controller mount in the shown position.
+Prepare the fan controller by removing the knob and placing double-sided tape to the front of the controller as shown.
 
 ### 6. Route the fan controller plug
 
